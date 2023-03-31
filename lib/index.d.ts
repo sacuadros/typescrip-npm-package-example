@@ -1,2 +1,2 @@
-export declare function isEven(num: number): boolean;
+export * from './Character';
 //# sourceMappingURL=index.d.ts.map

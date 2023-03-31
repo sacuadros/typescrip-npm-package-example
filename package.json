@@ -1,5 +1,5 @@
 {
-  "name": "bluex-order-model",
+  "name": "example-character-model",
   "version": "1.0.0",
   "description": "order model example",
   "main": "lib/index.js",
