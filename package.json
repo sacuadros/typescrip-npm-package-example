@@ -1,0 +1,20 @@
+{
+  "name": "bluex-order-model",
+  "version": "1.0.0",
+  "description": "order model example",
+  "main": "lib/index.js",
+  "types": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacuadros/typescrip-npm-package-example"
+  },
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [],
+  "author": {
+    "name": "sergio cuadros",
+    "email": "email@gmail.com"
+  },
+  "license": "ISC"
+}
